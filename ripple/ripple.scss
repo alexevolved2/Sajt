@@ -154,6 +154,13 @@ body{
 }
 
 .section-4-white {
-    padding:70px 25px 70px 8
-    0px;
+    padding:70px 25px 70px 80px;
+}
+
+.section-5-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
 }
